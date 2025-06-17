@@ -9,6 +9,7 @@ https://www.linkedin.com/in/madhura-pawar-31818926a
 
 # Languages and Tools
 Java  ![Screenshot 2025-06-17 182626](https://github.com/user-attachments/assets/3055c317-0a9b-41be-b6ed-48edb3c1d681)
-MYSQL
+MYSQL![Screenshot 2025-06-17 182951](https://github.com/user-attachments/assets/24dabc67-2254-45a2-9ef7-edd2f295324f)
+
 
   

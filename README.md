@@ -1,6 +1,6 @@
   ## Hi there 👋, I'm Madhura Pawar
 
-# A passionate developer from India.
+## A passionate developer from India.
 
 📫 How to reach me: madhurapawar0621@gmail.com
 

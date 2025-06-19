@@ -8,7 +8,7 @@ A passionate developer from India.
 https://www.linkedin.com/in/madhura-pawar-31818926a  
 
 # Languages and Tools 
- ## JAVA(Eclipse)
+ ## JAVA(Eclipse IDE)
  ## MYSQL(Workbench)
  ## VS code
 
